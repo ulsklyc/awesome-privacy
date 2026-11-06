@@ -56,3 +56,9 @@ recommend:
       added: 2026-02-16
       tags:
         - e2ee
+    - name: Yuvomi
+      url: https://yuvomi.cloud
+      repo: https://github.com/ulsklyc/yuvomi
+      description: Self-hosted household organizer for tasks, calendars, meals, shopping, budgets and more.
+      tags:
+        - self-host
